@@ -1,0 +1,21 @@
+#ignore in NodeJs
+node_modules/
+
+#ignore in django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+#django python stack files
+*.py[cod]
+$py.class
+
+# C extension
+*.so
+
+#vs code
+.vscode

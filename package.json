@@ -1,0 +1,25 @@
+{
+  "name": "school_management",
+  "version": "1.0.0",
+  "description": "A complete school mangement system made on - Django Rest Framework &amp; ReactJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuhin18003/School-Management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuhin18003/School-Management/issues"
+  },
+  "homepage": "https://github.com/tuhin18003/School-Management#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
+}
